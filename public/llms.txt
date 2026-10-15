@@ -1,0 +1,18 @@
+# First Person Boxing Games
+
+> The fan hub for first person boxing games — every PC and VR title ranked, from Shuruka Boxing to Rising Spirit and the best VR boxing sims.
+
+Site: https://firstpersonboxing.xyz
+
+## About
+The fan hub for first person boxing games — every PC and VR title ranked, from Shuruka Boxing to Rising Spirit and the best VR boxing sims. Guides, game library, VR deep dives and training tips.
+
+## Guides
+- [First Person Boxing: The Complete Guide to Boxing Games](https://firstpersonboxing.xyz/guide/first-person-boxing-guide): What first person boxing games are, how the genre plays on PC and in VR, and how to pick your first title.
+- [How to Choose a First Person Boxing Game](https://firstpersonboxing.xyz/guide/how-to-choose-boxing-game): The selection framework — realism vs arcade, flatscreen vs VR, price, content depth and hardware needs compared.
+- [Best First Person Boxing Games Ranked](https://firstpersonboxing.xyz/games/best-first-person-boxing-games): Every first person boxing game ranked for 2026 — Shuruka Boxing, Rising Spirit, Beast Boxing Turbo, Ook Boxing and more.
+- [Shuruka Boxing Review: The Most Realistic First Person Boxing](https://firstpersonboxing.xyz/games/shuruka-boxing-review): Shuruka Boxing reviewed — realistic first person boxing with dynamic AI opponents, dodge-block-punch combat and its 2025 Steam release.
+- [VR Boxing: The Best Headset Boxing Workouts](https://firstpersonboxing.xyz/vr/vr-boxing-guide): VR boxing explained — the best VR boxing games, headset picks, workout value and how VR changed first person boxing.
+- [First Person Boxing Training: Punch Better in Any Game](https://firstpersonboxing.xyz/vr/boxing-training): Cross-game training — jab timing, head movement, stamina pacing and habits that carry from flatscreen to VR.
+- [First Person Boxing Tips: Win More Fights](https://firstpersonboxing.xyz/tips/boxing-tips): Fight-winning tips for every first person boxing game — defense first, counter patterns and reading AI tendencies.
+- [Boxing Game Gear: What You Actually Need](https://firstpersonboxing.xyz/tips/boxing-game-gear): The gear guide — controllers, VR setups, gloves for VR boxing and what to skip.

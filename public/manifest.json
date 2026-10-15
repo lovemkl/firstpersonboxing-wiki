@@ -1,0 +1,13 @@
+{
+  "name": "First Person Boxing Games",
+  "short_name": "First Person Boxing",
+  "description": "Fan hub for first person boxing games — every PC and VR title ranked, from Shuruka Boxing to Rising Spirit and the best VR boxing sims.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c11",
+  "theme_color": "#e0383f",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

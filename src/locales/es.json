@@ -1,0 +1,243 @@
+{
+  "site": {
+    "name": "First Person Boxing Games",
+    "shortName": "First Person Boxing",
+    "tagline": "Hub de fans del género",
+    "description": "El hub de fans de los juegos de boxeo en primera persona — todos los títulos de PC y VR clasificados, de Shuruka Boxing a Rising Spirit y los mejores simuladores VR.",
+    "legalNotice": "Hub no oficial de fans. Sin afiliación con ningún estudio."
+  },
+  "nav": {
+    "guides": "Guías",
+    "games": "Juegos",
+    "vr": "Boxeo VR",
+    "tips": "Consejos",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "First Person Boxing: Los mejores juegos de boxeo 2026",
+      "description": "Juegos de boxeo en primera persona clasificados — Shuruka Boxing, Rising Spirit, simuladores VR y todo título que te pone dentro de los guantes, con guías y entrenamiento."
+    },
+    "hero": {
+      "eyebrow": "Hub de fans del género",
+      "title": "First Person Boxing",
+      "description": "El género que te pone dentro de los guantes. Todos los juegos de boxeo en primera persona de PC y VR — el realismo de Shuruka Boxing, la carrera de Rising Spirit, el alma arcade de Beast Boxing Turbo y la biblioteca VR de contacto completo — clasificados, analizados y con entrenamiento que transfiere entre todos los títulos del género.",
+      "primaryCta": "Leer la guía del género",
+      "secondaryCta": "Ver boxeo en VR",
+      "tertiaryCta": "Todas las guías",
+      "stats": ["PC y VR", "Del simulador al arcade", "Entrenamiento transferible", "Clasificación 2026"]
+    },
+    "updates": {
+      "title": "Cartelera",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Entra al ring en cuatro pasos",
+      "title": "Tu primera semana en el género",
+      "cards": [
+        { "number": "1", "title": "Elige tu esquina", "description": "PC o VR, realismo o arcade — una respuesta honesta sobre tu gusto vale más que cinco compras al azar." },
+        { "number": "2", "title": "Pelea el tutorial dos veces", "description": "No por las instrucciones — por la línea base de tiempo en que se construye cada juego del género." },
+        { "number": "3", "title": "Tres golpes, no más", "description": "Combinaciones de menos de cuatro mantienen tu guardia recuperable — el hábito que todos quisieron haber tomado." },
+        { "number": "4", "title": "Entrena una capa por semana", "description": "Timing de jab, distancia, defensa, resistencia — las cuatro capas que hacen familiar cada título del género." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Lo más leído de la semana",
+      "title": "Tendencia ahora",
+      "quickLinks": ["Juegos", "VR", "Guía", "Consejos"],
+      "cards": [
+        { "title": "Mejores juegos clasificados", "description": "Cada título de boxeo en primera persona 2026, con veredictos sobre para quién es cada juego." },
+        { "title": "Guía de boxeo VR", "description": "La ala más fuerte — los mejores juegos VR por propósito, auriculares y el argumento del entrenamiento." },
+        { "title": "Guía del género", "description": "Qué es el boxeo en primera persona, cómo se juega y los juegos que lo definen — la orientación completa." },
+        { "title": "Gana más peleas", "description": "Hábitos de defensa primero, patrones de contragolpe y el plan por asaltos que gana al final." }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es First Person Boxing?",
+      "paragraphs": [
+        "El boxeo en primera persona es el género más físico que una pantalla puede ofrecer: la cámara está donde están tus ojos, los guantes suben al encuadre y cada jab, gancho y esquiva aterriza con un peso que el boxeo en tercera persona nunca igualó. El género se divide entre títulos de PC — el realismo de Shuruka Boxing, la simulación de vida de Rising Spirit, el alma arcade de Beast Boxing Turbo — y VR, donde tus brazos lanzan los golpes y el género se vuelve cardio real.",
+        "Este hub es el compañero de fans de todo eso: la biblioteca completa clasificada, guías de selección para cada gusto y presupuesto, análisis de VR con consejos de auriculares y equipo, y entrenamiento cruzado que construye habilidades transferibles a todos los títulos del género."
+      ],
+      "stats": [
+        { "label": "Plataformas", "value": "PC y VR" },
+        { "label": "Estilos", "value": "Sim a Arcade" },
+        { "label": "Top Sim", "value": "Shuruka Boxing" },
+        { "label": "Top Carrera", "value": "Rising Spirit" },
+        { "label": "Clásico Arcade", "value": "Beast Boxing Turbo" },
+        { "label": "Contacto Total", "value": "Biblioteca VR" }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Todo el género, mapeado",
+      "description": "Guías, juegos, VR y consejos — el kit completo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Mejores Juegos",
+          "description": "Todos los títulos clasificados con veredictos.",
+          "href": "/games/best-first-person-boxing-games",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "Nivel 2026", "detail": "Shuruka Boxing, Rising Spirit, VR, Beast Boxing Turbo, Ook Boxing — clasificados", "badge": "Ranking" }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía del Género",
+          "description": "La orientación completa.",
+          "href": "/guide/first-person-boxing-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Qué es el boxeo en primera persona — la decisión de cámara que lo cambia todo" },
+            { "label": "2", "detail": "PC versus VR — la bifurcación de la que todo depende" },
+            { "label": "3", "detail": "Tu primera semana — un juego, tres golpes, calibración paciente" }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Cómo Elegir",
+          "description": "El marco de cinco preguntas.",
+          "href": "/guide/how-to-choose-boxing-game",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "PC o VR — estructura versus presencia" },
+            { "label": "2", "detail": "Realismo o arcade — disciplina versus expresión" },
+            { "label": "3", "detail": "Carrera o combate — convertirte en alguien o solo boxear" }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Análisis Shuruka",
+          "description": "El estándar de realismo, analizado.",
+          "href": "/games/shuruka-boxing-review",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "IA adaptativa — oponentes que leen tus patrones" },
+            { "label": "A", "detail": "Potencia por mecánica — la técnica golpea más fuerte" },
+            { "label": "B", "detail": "Ritmo exigente — los asaltos se ganan, no se toman" },
+            { "label": "C", "detail": "Capa de carrera fina — la pelea es el juego" }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía VR",
+          "description": "El ala de contacto total.",
+          "href": "/vr/vr-boxing-guide",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🥊", "detail": "Defensa encarnada — tu movimiento real de cabeza" },
+            { "label": "🔥", "detail": "Carga fitness — el entrenamiento más sostenible del género" },
+            { "label": "🕶", "detail": "Tracking primero — la especificación que importa" }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Entrenamiento",
+          "description": "Habilidades que transfieren a todo.",
+          "href": "/vr/boxing-training",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Sesiones solo jab — el esqueleto del timing" },
+            { "label": "2", "detail": "Asaltos solo defensa — encuentra las ventanas de recuperación" },
+            { "label": "3", "detail": "Disciplina de tres golpes — la guardia que nunca baja" }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Consejos de Pelea",
+          "description": "Los hábitos que voltean peleas.",
+          "href": "/tips/boxing-tips",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🛡", "detail": "Termina tu ofensiva mirando tu guardia — cierra la brecha de daño" },
+            { "label": "👁", "detail": "Sacrifica el primer asalto — cada IA tiene su tell" },
+            { "label": "⏱", "detail": "Ahorra temprano, cobra tarde — el plan por asaltos" }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de Equipo",
+          "description": "Qué comprar, qué saltar.",
+          "href": "/tips/boxing-game-gear",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🧼", "detail": "La interfaz lavable — la única mejora VR que importa" },
+            { "label": "📐", "detail": "Disciplina del espacio — radio de extensión total, cada sesión" },
+            { "label": "🚫", "detail": "La lista de omisión — controles con peso, chalecos hápticos, guantes de saco" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes del género.",
+      "items": [
+        { "question": "¿Cuál es el mejor juego de boxeo en primera persona?", "answer": "Depende de tu esquina: Shuruka Boxing para realismo e IA adaptativa, Rising Spirit para carrera e historia, Beast Boxing Turbo para arcade atemporal, Ook Boxing para caos físico — y la biblioteca VR para la experiencia definitiva del género si tienes auriculares." },
+        { "question": "¿Necesito VR para disfrutar el género?", "answer": "No — la biblioteca de PC es fuerte y crece. Pero VR es donde la promesa del género se cumple del todo: tus brazos lanzan los golpes, tu movimiento de cabeza es tu defensa y las sesiones son cardio genuino." },
+        { "question": "¿El boxeo VR es un entrenamiento real?", "answer": "Sí — las sesiones sostenidas son cardio legítimo con quema de calorías real, y la estructura de juego del género da mejor adherencia a largo plazo que la mayoría del software fitness. Sube el volumen gradualmente." },
+        { "question": "¿Las habilidades transfieren entre juegos?", "answer": "Sí — la fuerza silenciosa del género. Timing, gestión de distancia, disciplina defensiva y sentido de resistencia se llevan a todos los títulos, PC y VR. Compra profundidad, no variedad." }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para entrar al ring?",
+      "description": "La biblioteca clasificada, el marco de selección, el análisis VR y el método de entrenamiento — todo desde tu primer asalto hasta el mejor.",
+      "primary": "Leer la guía del género",
+      "secondary": "Ver en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación",
+    "activeCodes": "Cartelera",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todas las guías",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "First Person Boxing Games",
+    "about": "First Person Boxing Games es un hub independiente de fans sobre juegos de boxeo en primera persona en PC y VR — biblioteca clasificada, guías del género, análisis VR y consejos de entrenamiento.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 First Person Boxing Games. Sin afiliación con ningún estudio. Todos los juegos y marcas son propiedad de sus respectivos dueños.",
+    "description": "El hub de boxeo en primera persona — todos los títulos PC y VR clasificados, guiados y entrenados.",
+    "playGame": "Ver en Steam",
+    "officialDiscord": "Comunidad",
+    "officialYoutube": "itch.io Boxing",
+    "epicStore": "Steam",
+    "beginnerGuide": "Guía del género",
+    "mapGuides": "Mejores juegos",
+    "weaponsGuides": "Guía VR",
+    "buildGuide": "Consejos de pelea",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías del género",
+    "overviewDescription": "Todas las guías de boxeo en primera persona — la orientación completa del género y el marco de cinco preguntas para elegir tu juego."
+  },
+  "games": {
+    "overviewTitle": "Juegos de Boxeo Primera Persona",
+    "overviewDescription": "Todos los juegos de boxeo en primera persona 2026 — la lista completa clasificada con veredictos, más el análisis profundo de Shuruka Boxing."
+  },
+  "vr": {
+    "overviewTitle": "Boxeo VR",
+    "overviewDescription": "El ala VR del boxeo en primera persona — los mejores juegos por propósito, prioridades de auriculares, equipo y el método de entrenamiento que transfiere."
+  },
+  "tips": {
+    "overviewTitle": "Consejos y Equipo",
+    "overviewDescription": "Hábitos ganadores para cada título y la guía de equipo que separa lo que importa de lo que las tiendas quieren venderte."
+  }
+}
