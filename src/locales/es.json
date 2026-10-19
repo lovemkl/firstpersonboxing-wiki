@@ -7,6 +7,7 @@
     "legalNotice": "Hub no oficial de fans. Sin afiliación con ningún estudio."
   },
   "nav": {
+    "codes": "Códigos",
     "guides": "Guías",
     "games": "Juegos",
     "vr": "Boxeo VR",
@@ -17,8 +18,8 @@
   },
   "home": {
     "meta": {
-      "title": "First Person Boxing: Los mejores juegos de boxeo 2026",
-      "description": "Juegos de boxeo en primera persona clasificados — Shuruka Boxing, Rising Spirit, simuladores VR y todo título que te pone dentro de los guantes, con guías y entrenamiento."
+      "title": "First Person Boxing Códigos y Mejores Juegos de Boxeo 2026",
+      "description": "Todos los códigos activos de First Person Boxing en Roblox con giros y dinero gratis, además de los mejores juegos de boxeo para PC y VR, tier de estilos y guías."
     },
     "hero": {
       "eyebrow": "Hub de fans del género",
@@ -227,6 +228,10 @@
   "guide": {
     "overviewTitle": "Guías del género",
     "overviewDescription": "Todas las guías de boxeo en primera persona — la orientación completa del género y el marco de cinco preguntas para elegir tu juego."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de First Person Boxing",
+    "overviewDescription": "Todos los códigos activos de First Person Boxing en Roblox — giros, monedas y dinero gratis, verificados en octubre de 2026."
   },
   "games": {
     "overviewTitle": "Juegos de Boxeo Primera Persona",

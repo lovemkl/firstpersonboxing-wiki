@@ -243,6 +243,7 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
+  codes: "Codes",
   guide: "Guides",
   games: "Games",
   vr: "VR Boxing",
@@ -251,13 +252,13 @@ const GROUP_TITLES: Record<string, string> = {
 
 // 西语分组标题映射
 const GROUP_TITLES_ES: Record<string, string> = {
-  guide: "Guías", games: "Juegos", vr: "Boxeo VR", tips: "Consejos",
+  codes: "Códigos", guide: "Guías", games: "Juegos", vr: "Boxeo VR", tips: "Consejos",
 };
 const GROUP_TITLES_PT: Record<string, string> = {
-  guide: "Guias", games: "Jogos", vr: "Boxe VR", tips: "Dicas",
+  codes: "Códigos", guide: "Guias", games: "Jogos", vr: "Boxe VR", tips: "Dicas",
 };
 const GROUP_TITLES_DE: Record<string, string> = {
-  guide: "Guides", games: "Spiele", vr: "VR-Boxen", tips: "Tipps",
+  codes: "Codes", guide: "Guides", games: "Spiele", vr: "VR-Boxen", tips: "Tipps",
 };
 
 // locale → 分组标题映射
@@ -272,7 +273,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "weapons", "gangs", "codes",
+  "codes", "guide", "weapons", "gangs",
 ];
 
 /**
