@@ -18,8 +18,8 @@
   },
   "home": {
     "meta": {
-      "title": "First Person Boxing Codes and Best Boxing Games 2026",
-      "description": "All working First Person Boxing Roblox codes with free spins and cash, plus the best boxing games ranked for PC and VR — styles tier list, guides and training."
+      "title": "First Person Boxing Codes & Games 2026 - All Working, Free to Play",
+      "description": "All working First Person Boxing codes for free spins & cash, plus the top first-person boxing games ranked for PC & VR - tier lists, guides and training tips updated daily."
     },
     "hero": {
       "eyebrow": "Fan-Made Genre Hub",
@@ -28,7 +28,12 @@
       "primaryCta": "Read the Genre Guide",
       "secondaryCta": "Watch Boxing in VR",
       "tertiaryCta": "All Guides",
-      "stats": ["PC & VR Coverage", "Realism to Arcade", "Training That Transfers", "2026 Ranked"]
+      "stats": [
+        "PC & VR Coverage",
+        "Realism to Arcade",
+        "Training That Transfers",
+        "2026 Ranked"
+      ]
     },
     "updates": {
       "title": "Fight Card",
@@ -39,21 +44,54 @@
       "eyebrow": "Step In In Four Moves",
       "title": "Your First Week in the Genre",
       "cards": [
-        { "number": "1", "title": "Pick Your Corner", "description": "Flatscreen or VR, realism or arcade — one honest answer about your taste beats five random purchases." },
-        { "number": "2", "title": "Fight the Tutorial Twice", "description": "Not for the instructions — for the timing baseline every first person boxing game is secretly built on." },
-        { "number": "3", "title": "Three Punches, No More", "description": "Combinations shorter than four keep your guard recoverable — the habit every intermediate player wishes they had." },
-        { "number": "4", "title": "Drill One Layer a Week", "description": "Jab timing, range, defense, stamina — the four-layer stack that makes every title in the genre feel familiar." }
+        {
+          "number": "1",
+          "title": "Pick Your Corner",
+          "description": "Flatscreen or VR, realism or arcade — one honest answer about your taste beats five random purchases."
+        },
+        {
+          "number": "2",
+          "title": "Fight the Tutorial Twice",
+          "description": "Not for the instructions — for the timing baseline every first person boxing game is secretly built on."
+        },
+        {
+          "number": "3",
+          "title": "Three Punches, No More",
+          "description": "Combinations shorter than four keep your guard recoverable — the habit every intermediate player wishes they had."
+        },
+        {
+          "number": "4",
+          "title": "Drill One Layer a Week",
+          "description": "Jab timing, range, defense, stamina — the four-layer stack that makes every title in the genre feel familiar."
+        }
       ]
     },
     "popular": {
       "eyebrow": "Most-Read This Week",
       "title": "Trending Now",
-      "quickLinks": ["Games", "VR", "Guide", "Tips"],
+      "quickLinks": [
+        "Games",
+        "VR",
+        "Guide",
+        "Tips"
+      ],
       "cards": [
-        { "title": "Best Boxing Games Ranked", "description": "Every first person boxing title for 2026, ranked with verdicts on who each game is actually for." },
-        { "title": "VR Boxing Guide", "description": "The full-strength wing — best VR boxing games by purpose, headset priorities and the workout case." },
-        { "title": "The Genre Guide", "description": "What first person boxing is, how it plays, and the games that define it — the complete orientation." },
-        { "title": "Win More Fights", "description": "Defense-first habits, counter patterns and the round-by-round gameplan that wins late." }
+        {
+          "title": "Best Boxing Games Ranked",
+          "description": "Every first person boxing title for 2026, ranked with verdicts on who each game is actually for."
+        },
+        {
+          "title": "VR Boxing Guide",
+          "description": "The full-strength wing — best VR boxing games by purpose, headset priorities and the workout case."
+        },
+        {
+          "title": "The Genre Guide",
+          "description": "What first person boxing is, how it plays, and the games that define it — the complete orientation."
+        },
+        {
+          "title": "Win More Fights",
+          "description": "Defense-first habits, counter patterns and the round-by-round gameplan that wins late."
+        }
       ]
     },
     "aboutGame": {
@@ -63,12 +101,30 @@
         "This hub is the fan-built companion to all of it: the complete game library ranked, selection guides for every taste and budget, VR deep dives with headset and gear advice, and cross-game training that builds skills transferring to every title in the genre."
       ],
       "stats": [
-        { "label": "Platforms", "value": "PC & VR" },
-        { "label": "Styles", "value": "Sim to Arcade" },
-        { "label": "Top Sim", "value": "Shuruka Boxing" },
-        { "label": "Top Career", "value": "Rising Spirit" },
-        { "label": "Arcade Classic", "value": "Beast Boxing Turbo" },
-        { "label": "Full Contact", "value": "VR Library" }
+        {
+          "label": "Platforms",
+          "value": "PC & VR"
+        },
+        {
+          "label": "Styles",
+          "value": "Sim to Arcade"
+        },
+        {
+          "label": "Top Sim",
+          "value": "Shuruka Boxing"
+        },
+        {
+          "label": "Top Career",
+          "value": "Rising Spirit"
+        },
+        {
+          "label": "Arcade Classic",
+          "value": "Beast Boxing Turbo"
+        },
+        {
+          "label": "Full Contact",
+          "value": "VR Library"
+        }
       ],
       "cta": "Explore All Guides"
     },
@@ -83,7 +139,11 @@
           "href": "/games/best-first-person-boxing-games",
           "displayType": "code-cards",
           "highlights": [
-            { "label": "2026 Tier", "detail": "Shuruka Boxing, Rising Spirit, VR library, Beast Boxing Turbo, Ook Boxing — ranked", "badge": "Ranked" }
+            {
+              "label": "2026 Tier",
+              "detail": "Shuruka Boxing, Rising Spirit, VR library, Beast Boxing Turbo, Ook Boxing — ranked",
+              "badge": "Ranked"
+            }
           ]
         },
         {
@@ -93,9 +153,18 @@
           "href": "/guide/first-person-boxing-guide",
           "displayType": "step-by-step",
           "highlights": [
-            { "label": "1", "detail": "What first person boxing is — the camera decision that changes everything" },
-            { "label": "2", "detail": "Flatscreen versus VR — the fork everything hangs on" },
-            { "label": "3", "detail": "Your first week — one game, three punches, patient calibration" }
+            {
+              "label": "1",
+              "detail": "What first person boxing is — the camera decision that changes everything"
+            },
+            {
+              "label": "2",
+              "detail": "Flatscreen versus VR — the fork everything hangs on"
+            },
+            {
+              "label": "3",
+              "detail": "Your first week — one game, three punches, patient calibration"
+            }
           ]
         },
         {
@@ -105,9 +174,18 @@
           "href": "/guide/how-to-choose-boxing-game",
           "displayType": "step-by-step",
           "highlights": [
-            { "label": "1", "detail": "Flatscreen or VR — structure versus presence" },
-            { "label": "2", "detail": "Realism or arcade — discipline versus expression" },
-            { "label": "3", "detail": "Career depth or fight depth — become someone or just box" }
+            {
+              "label": "1",
+              "detail": "Flatscreen or VR — structure versus presence"
+            },
+            {
+              "label": "2",
+              "detail": "Realism or arcade — discipline versus expression"
+            },
+            {
+              "label": "3",
+              "detail": "Career depth or fight depth — become someone or just box"
+            }
           ]
         },
         {
@@ -117,10 +195,22 @@
           "href": "/games/shuruka-boxing-review",
           "displayType": "tier-grid",
           "highlights": [
-            { "label": "S", "detail": "Adaptive AI — opponents that read your patterns" },
-            { "label": "A", "detail": "Mechanics-scaled power — technique hits harder" },
-            { "label": "B", "detail": "Demanding pacing — rounds are earned, not taken" },
-            { "label": "C", "detail": "Thin career layer — the fight is the game" }
+            {
+              "label": "S",
+              "detail": "Adaptive AI — opponents that read your patterns"
+            },
+            {
+              "label": "A",
+              "detail": "Mechanics-scaled power — technique hits harder"
+            },
+            {
+              "label": "B",
+              "detail": "Demanding pacing — rounds are earned, not taken"
+            },
+            {
+              "label": "C",
+              "detail": "Thin career layer — the fight is the game"
+            }
           ]
         },
         {
@@ -130,9 +220,18 @@
           "href": "/vr/vr-boxing-guide",
           "displayType": "card-list",
           "highlights": [
-            { "label": "🥊", "detail": "Embodied defense — your actual head movement" },
-            { "label": "🔥", "detail": "Fitness payload — the genre's most sustainable workout" },
-            { "label": "🕶", "detail": "Tracking first — the headset spec that matters" }
+            {
+              "label": "🥊",
+              "detail": "Embodied defense — your actual head movement"
+            },
+            {
+              "label": "🔥",
+              "detail": "Fitness payload — the genre's most sustainable workout"
+            },
+            {
+              "label": "🕶",
+              "detail": "Tracking first — the headset spec that matters"
+            }
           ]
         },
         {
@@ -142,9 +241,18 @@
           "href": "/vr/boxing-training",
           "displayType": "step-by-step",
           "highlights": [
-            { "label": "1", "detail": "Jab-only sessions — the timing skeleton" },
-            { "label": "2", "detail": "Defense-only rounds — find the recovery windows" },
-            { "label": "3", "detail": "Three-punch discipline — the guard that never drops" }
+            {
+              "label": "1",
+              "detail": "Jab-only sessions — the timing skeleton"
+            },
+            {
+              "label": "2",
+              "detail": "Defense-only rounds — find the recovery windows"
+            },
+            {
+              "label": "3",
+              "detail": "Three-punch discipline — the guard that never drops"
+            }
           ]
         },
         {
@@ -154,9 +262,18 @@
           "href": "/tips/boxing-tips",
           "displayType": "card-list",
           "highlights": [
-            { "label": "🛡", "detail": "End offense facing your guard — close the damage gap" },
-            { "label": "👁", "detail": "Sacrifice round one — every AI has a tell" },
-            { "label": "⏱", "detail": "Bank early, collect late — the round-by-round plan" }
+            {
+              "label": "🛡",
+              "detail": "End offense facing your guard — close the damage gap"
+            },
+            {
+              "label": "👁",
+              "detail": "Sacrifice round one — every AI has a tell"
+            },
+            {
+              "label": "⏱",
+              "detail": "Bank early, collect late — the round-by-round plan"
+            }
           ]
         },
         {
@@ -166,9 +283,18 @@
           "href": "/tips/boxing-game-gear",
           "displayType": "card-list",
           "highlights": [
-            { "label": "🧼", "detail": "The washable interface — the one VR upgrade that matters" },
-            { "label": "📐", "detail": "Play-space discipline — full-extension radius, every session" },
-            { "label": "🚫", "detail": "The skip list — weighted controllers, haptic vests, bag gloves" }
+            {
+              "label": "🧼",
+              "detail": "The washable interface — the one VR upgrade that matters"
+            },
+            {
+              "label": "📐",
+              "detail": "Play-space discipline — full-extension radius, every session"
+            },
+            {
+              "label": "🚫",
+              "detail": "The skip list — weighted controllers, haptic vests, bag gloves"
+            }
           ]
         }
       ]
@@ -177,10 +303,22 @@
       "title": "Frequently Asked Questions",
       "description": "Quick answers to the most common questions about the genre.",
       "items": [
-        { "question": "What is the best first person boxing game?", "answer": "It depends on your corner: Shuruka Boxing for realism and adaptive AI, Rising Spirit for career and story, Beast Boxing Turbo for timeless arcade charm, Ook Boxing for physics chaos — and the VR library for the genre's definitive experience if you own a headset." },
-        { "question": "Do I need VR to enjoy first person boxing?", "answer": "No — the flatscreen library is strong and growing. But VR is where the genre's promise is fully kept: your arms throw the punches, your head movement is your defense, and sessions are genuine cardio." },
-        { "question": "Is VR boxing a real workout?", "answer": "Yes — sustained sessions are legitimate cardio with real calorie burn, and the genre's game structure gives it better long-term adherence than most fitness software. Ramp volume gradually; it arrives disguised as a game." },
-        { "question": "Do skills transfer between boxing games?", "answer": "Yes — the genre's quiet strength. Timing, distance management, defensive discipline and stamina sense carry across every title, flatscreen and VR alike. Buy depth, not variety." }
+        {
+          "question": "What is the best first person boxing game?",
+          "answer": "It depends on your corner: Shuruka Boxing for realism and adaptive AI, Rising Spirit for career and story, Beast Boxing Turbo for timeless arcade charm, Ook Boxing for physics chaos — and the VR library for the genre's definitive experience if you own a headset."
+        },
+        {
+          "question": "Do I need VR to enjoy first person boxing?",
+          "answer": "No — the flatscreen library is strong and growing. But VR is where the genre's promise is fully kept: your arms throw the punches, your head movement is your defense, and sessions are genuine cardio."
+        },
+        {
+          "question": "Is VR boxing a real workout?",
+          "answer": "Yes — sustained sessions are legitimate cardio with real calorie burn, and the genre's game structure gives it better long-term adherence than most fitness software. Ramp volume gradually; it arrives disguised as a game."
+        },
+        {
+          "question": "Do skills transfer between boxing games?",
+          "answer": "Yes — the genre's quiet strength. Timing, distance management, defensive discipline and stamina sense carry across every title, flatscreen and VR alike. Buy depth, not variety."
+        }
       ]
     },
     "finalCta": {
